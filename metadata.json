@@ -1,0 +1,5 @@
+{
+  "name": "E-Diff Pro Simulator",
+  "description": "A high-fidelity virtual differential simulator for electric vehicles. Visualize torque vectoring, tire slip, and vehicle stability across Open, Locked, and Adaptive differential modes on various surfaces.",
+  "requestFramePermissions": []
+}
