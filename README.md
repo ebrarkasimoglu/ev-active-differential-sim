@@ -7,7 +7,6 @@ This is a **learning + portfolio project**: the goal is clear, comparable behavi
 
 ---
 
-## What you can do
 
 ### Differential modes
 - **OPEN**: baseline behavior; torque distribution does not actively correct slip between rear wheels.
