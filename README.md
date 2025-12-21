@@ -38,8 +38,6 @@ This is a **learning + portfolio project**: the goal is clear, comparable behavi
    - how yaw rate changes
    - how torque split reacts in ADAPTIVE mode
 
-Tip: The difference becomes very obvious as μ drops (Wet/Snow).
-
 ---
 
 ## Simulation notes (simplified on purpose)
@@ -60,16 +58,8 @@ The simulator uses a lightweight 2D dynamics approximation built around:
 - Max total drive torque: **600 Nm**
 - Tire radius: **0.3 m**
 
-(These are easy to tweak if you want to run more aggressive/realistic scenarios.)
 
 ---
 
-## Tech stack
-- React + TypeScript
-- Tailwind CSS
-- HTML5 Canvas (rendering)
-- Recharts (telemetry)
-- Lucide React (icons)
-- Vite (dev/build)
 
 
